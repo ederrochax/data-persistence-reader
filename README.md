@@ -23,7 +23,7 @@ git clone https://github.com/ederrochax/data-persistence-reader.git
 cd data-persistence-data-persistence-reader
 ```
 
-3. Start and Build Docker:
+3. Start and build Docker:
 
 ```bash
 docker-compose up --build
